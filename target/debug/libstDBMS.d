@@ -1,0 +1,1 @@
+/home/vinarsky/Desktop/projects/stDBMS/target/debug/libstDBMS.rlib: /home/vinarsky/Desktop/projects/stDBMS/src/common.rs /home/vinarsky/Desktop/projects/stDBMS/src/dirman.rs /home/vinarsky/Desktop/projects/stDBMS/src/error.rs /home/vinarsky/Desktop/projects/stDBMS/src/lib.rs /home/vinarsky/Desktop/projects/stDBMS/src/pageman.rs
